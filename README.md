@@ -1,1 +1,1 @@
-# upgrade-pc-RZ
+# upgrade-pc-R
